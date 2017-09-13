@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Quiz Game App</string>
+
+    <!-- CATEGORY  CHILD NAME QuestionRadioButton [CHAR LIMIT=20] -->
+    <string name="fragment_question1">Question 1</string>
+
+    <!-- CATEGORY  CHILD NAME Question2 [CHAR LIMIT=20] -->
+    <string name="fragment_question2">Question 2</string>
+
+    <!-- CATEGORY CHILD NAME Question3 [CHAR LIMIT=20] -->
+    <string name="fragment_question3">Question 3</string>
+
+    <!-- CATEGORY CHILD NAME Question4 [CHAR LIMIT=20] -->
+    <string name="fragment_question4">Question 4</string>
+
+    <!-- CATEGORY CHILD NAME Question5 [CHAR LIMIT=20] -->
+    <string name="fragment_question5">Question 5</string>
+
+    <!-- CATEGORY CHILD NAME QuestionCheckBox [CHAR LIMIT=20] -->
+    <string name="fragment_question6">Question 6</string>
+
+    <!-- CATEGORY CHILD NAME QuestionCheckBox [CHAR LIMIT=20] -->
+    <string name="fragment_question7">Question 7</string>
+
+    <!-- CATEGORY NAME Enjoy the game [CHAR LIMIT=20] -->
+    <string name="fragment_opening_fragment">Rules</string>
+
+    <!-- CATEGORY NAME Score [CHAR LIMIT=20] -->
+    <string name="fragment_quiz_app">Quiz</string>
+
+    <!-- CATEGORY NAME Score [CHAR LIMIT=20] -->
+    <string name="fragment_final_score">Score</string>
+
+    <string name="correct">Correct</string>
+
+    <string name="incorrect">Incorrect</string>
+
+    <string name="game">Game</string>
+
+    <string name="try_again">Try again</string>
+
+    <string name="Submit">Submit score</string>
+
+    <string name="yourScore">Your final score is :</string>
+
+    <string name="final_score_view">Final score</string>
+
+    <string name="quiz_score">Quiz score</string>
+
+    <string name="edit_question_title">Edit text question :</string>
+
+    <string name="hint_edit_main">Enter your name :</string>
+
+    <string name="hint_edit_answer7">Enter answer here :</string>
+
+    <string name="general_rules_title">General rules :</string>
+
+    <string name="check_box_title">Check box question :</string>
+
+    <string name="app_recap">App Recap</string>
+
+    <string name="start_btn">Start game ! </string>
+
+    <string name="start_rules_btn">Start ! </string>
+
+    <string name="question_1">Question 1 :</string>
+
+    <string name="question_2">Question 2 :</string>
+
+    <string name="question_3">Question 3 :</string>
+
+    <string name="question_4">Question 4 :</string>
+
+    <string name="question_5">Question 5 :</string>
+
+    <string name="question_6">Question 6 :</string>
+
+    <string name="question_7">Question 7 :</string>
+
+    <string name="question_1_string">1. Wrestling is a :</string>
+
+    <string name="question_2_string">2. What is the minimum number of rounds every wrestling bout is consisted of ? </string>
+
+    <string name="question_3_string">3. How long does a wrestling round last ?</string>
+
+    <string name="question_4_string">4. First wrestling Olympic medal was awarded on which Olympic games ?</string>
+
+    <string name="question_5_string">5. Who won it ?</string>
+
+    <string name="question_6_string">6. Who is considered the best wrestler of all time ?</string>
+
+    <string name="question_7_string">7. Which wrestling throw does the image represent ?</string>
+
+    <string name="frag1_answer1">Boring sport</string>
+
+    <string name="frag1_answer2">Combat sport</string>
+
+    <string name="frag1_answer3">Team sport</string>
+
+    <string name="frag2_answer1">2</string>
+
+    <string name="frag2_answer2">3</string>
+
+    <string name="frag2_answer3">5</string>
+
+    <string name="frag3_answer1">5 min</string>
+
+    <string name="frag3_answer2">3 min</string>
+
+    <string name="frag3_answer3">2 min</string>
+
+    <string name="frag4_answer1">1924. Paris</string>
+
+    <string name="frag4_answer2">1908. London</string>
+
+    <string name="frag4_answer3">1904. St.Louis</string>
+
+    <string name="frag5_answer1">Edmond Sparon</string>
+
+    <string name="frag5_answer2">Aubert Cote</string>
+
+    <string name="frag5_answer3">Isidor Niflot</string>
+
+    <string name="frag6_answer1">Mark Schultz</string>
+
+    <string name="frag6_answer2">Hamid Sourian</string>
+
+    <string name="frag6_answer3">Alexander Karelin</string>
+
+    <string name="frag7_answer">SUPLEX</string>
+
+
+    // END MESSAGES STRINGS
+    <string name="bornWrestler">Wow, we have a natural born wrestler here! </string>
+    <string name="goldMedalWinner"> you\'re a future gold medal winner!</string>
+    <string name="awesomeMatWork">Awesome work on  the mat </string>
+    <string name="proveItsNotLuck">! Prove it\'s not luck and try again :D !</string>
+    <string name="goodJob">Good job </string>
+    <string name="trainMore">! You should train just a bit more.</string>
+    <string name="decentWrestler">Looks like you\'re almost a decent wrestler </string>
+    <string name="betterNextTime">You\'ll be better next time </string>
+    <string name="practicePerfect">, practice makes perfect!</string>
+    <string name="longRoadAhead">You\'ve got a long road ahead </string>
+    <string name="morePractice">Need more practice </string>
+    <string name="cMon">C\'mon </string>
+    <string name="didntTry">, you didn\'t even try! Shame on you!</string>
+
+    // DEFAULT PLAYER NAME
+    <string name="player">Player</string>
+
+    <string name="general_rules">The quiz is consisted of 7 questions. Questions 1-5 are single answer question. Question 6 has 2 possible answers and for question 7 the answer needs to be typed in. All correct questions are scored as 1, even the check box question with 2 possible answers.  </string>
+
+    <string name="check_box_rules">In order for the check box answer to be correct, both choices need to be correct in order to score points!  </string>
+
+    <string name="edit_text_rules">HINT: The correct answer is a single word. After you have typed the answer be sure to confirm it on the keyboard in order to see the final score !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
